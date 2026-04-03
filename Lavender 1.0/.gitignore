@@ -1,0 +1,10 @@
+_autosave-line follower simple
+~line follower simple.kicad_sch.lck
+line follower simple-backups/
+fp-info-cache
+*.kicad_prl
+*.kicad_sch-bak
+*.kicad_sch-lck
+*.kicad_pcb-bak
+*_autosave*
+\#auto_saved_files\#
