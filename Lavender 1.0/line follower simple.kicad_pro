@@ -626,6 +626,14 @@
       "version": 1
     },
     "net_format_name": "",
+    "ngspice": {
+      "fix_include_paths": true,
+      "meta": {
+        "version": 0
+      },
+      "model_mode": 4,
+      "workbook_filename": ""
+    },
     "page_layout_descr_file": "",
     "plot_directory": "",
     "reuse_designators": true,
@@ -645,13 +653,17 @@
         "uuid": "0c41e5c7-9305-43a8-ba69-e960b4d9dcc5"
       }
     ],
-    "used_designators": "MP1,#PWR2,#FLG2",
+    "used_designators": "BT1-2,#PWR2,#PWR6-8,#PWR11,#PWR13-14,#PWR30-32,#PWR37-42,#PWR44,#PWR46,#PWR48-50,#PWR58-64,TB1-2,R1-2,R19-45,R49-75,#FLG1-2,BlackPill1-2,U2,U4-21,MP1-2,C9,D1-2",
     "variants": []
   },
   "sheets": [
     [
       "0c41e5c7-9305-43a8-ba69-e960b4d9dcc5",
       "line follower simple"
+    ],
+    [
+      "536f6f0f-1348-4cad-80a9-cc024166d5f9",
+      "Sensors"
     ]
   ],
   "text_variables": {},
