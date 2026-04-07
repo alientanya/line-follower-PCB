@@ -5175,7 +5175,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 213.36 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -5256,7 +5256,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 105.41 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -5335,7 +5335,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TCRT5000L:XDCR_TCRT5000L"
+		(property "Footprint" "customs:XDCR_TCRT5000L"
 			(at 100.33 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -5556,7 +5556,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 161.29 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -5716,7 +5716,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "QRE1113GR:SOIC180P460X187-4N"
+		(property "Footprint" "customs:QRE1113-SMD"
 			(at 184.15 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -5973,7 +5973,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 106.68 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -6054,7 +6054,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 73.66 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -6214,7 +6214,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "QRE1113GR:SOIC180P460X187-4N"
+		(property "Footprint" "customs:QRE1113-SMD"
 			(at 218.44 29.21 0)
 			(hide yes)
 			(show_name no)
@@ -6471,7 +6471,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 57.15 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -6708,7 +6708,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 55.88 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -6789,7 +6789,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 156.21 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -6870,7 +6870,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 72.39 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -6949,7 +6949,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TCRT5000L:XDCR_TCRT5000L"
+		(property "Footprint" "customs:XDCR_TCRT5000L"
 			(at 63.5 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -7170,7 +7170,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 107.95 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -7251,7 +7251,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 191.77 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -7332,7 +7332,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 36.83 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -7413,7 +7413,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 21.59 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -7494,7 +7494,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 179.07 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -7575,7 +7575,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 179.07 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -7656,7 +7656,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 107.95 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -7737,7 +7737,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 69.85 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -7819,7 +7819,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "QRE1113GR:SOIC180P460X187-4N"
+		(property "Footprint" "customs:QRE1113-SMD"
 			(at 218.44 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -8076,7 +8076,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 231.14 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -8157,7 +8157,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 109.22 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -8238,7 +8238,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 54.61 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -8317,7 +8317,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TCRT5000L:XDCR_TCRT5000L"
+		(property "Footprint" "customs:XDCR_TCRT5000L"
 			(at 29.21 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -8616,7 +8616,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 90.17 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -8853,7 +8853,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 92.71 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -8934,7 +8934,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 156.21 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -9015,7 +9015,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 74.93 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -9096,7 +9096,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 161.29 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -9177,7 +9177,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 110.49 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -9258,7 +9258,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 143.51 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -9339,7 +9339,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 213.36 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -9418,7 +9418,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TCRT5000L:XDCR_TCRT5000L"
+		(property "Footprint" "customs:XDCR_TCRT5000L"
 			(at 97.79 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -9639,7 +9639,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 196.85 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -9876,7 +9876,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 231.14 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -9957,7 +9957,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 72.39 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -10038,7 +10038,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 91.44 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -10197,7 +10197,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 35.56 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -10278,7 +10278,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 143.51 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -10359,7 +10359,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 71.12 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -10516,7 +10516,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TCRT5000L:XDCR_TCRT5000L"
+		(property "Footprint" "customs:XDCR_TCRT5000L"
 			(at 26.67 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -10737,7 +10737,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 161.29 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -10896,7 +10896,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 226.06 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -10978,7 +10978,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "QRE1113GR:SOIC180P460X187-4N"
+		(property "Footprint" "customs:QRE1113-SMD"
 			(at 218.44 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -11235,7 +11235,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 226.06 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -11394,7 +11394,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 19.05 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -11475,7 +11475,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 191.77 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -11556,7 +11556,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 156.21 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -11715,7 +11715,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 38.1 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -11796,7 +11796,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 39.37 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -11953,7 +11953,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TCRT5000L:XDCR_TCRT5000L"
+		(property "Footprint" "customs:XDCR_TCRT5000L"
 			(at 27.94 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -12174,7 +12174,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 213.36 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -12256,7 +12256,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "QRE1113GR:SOIC180P460X187-4N"
+		(property "Footprint" "customs:QRE1113-SMD"
 			(at 148.59 29.21 0)
 			(hide yes)
 			(show_name no)
@@ -12513,7 +12513,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 179.07 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -12595,7 +12595,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "QRE1113GR:SOIC180P460X187-4N"
+		(property "Footprint" "customs:QRE1113-SMD"
 			(at 148.59 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -12850,7 +12850,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TCRT5000L:XDCR_TCRT5000L"
+		(property "Footprint" "customs:XDCR_TCRT5000L"
 			(at 99.06 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -13071,7 +13071,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 191.77 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -13152,7 +13152,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 143.51 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -13233,7 +13233,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 226.06 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -13315,7 +13315,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "QRE1113GR:SOIC180P460X187-4N"
+		(property "Footprint" "customs:QRE1113-SMD"
 			(at 184.15 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -13572,7 +13572,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 196.85 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -13653,7 +13653,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 231.14 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -13734,7 +13734,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 20.32 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -13815,7 +13815,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 36.83 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -13897,7 +13897,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "QRE1113GR:SOIC180P460X187-4N"
+		(property "Footprint" "customs:QRE1113-SMD"
 			(at 148.59 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -14152,7 +14152,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TCRT5000L:XDCR_TCRT5000L"
+		(property "Footprint" "customs:XDCR_TCRT5000L"
 			(at 64.77 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -14451,7 +14451,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 34.29 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -14532,7 +14532,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 196.85 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -14614,7 +14614,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "QRE1113GR:SOIC180P460X187-4N"
+		(property "Footprint" "customs:QRE1113-SMD"
 			(at 184.15 29.21 0)
 			(hide yes)
 			(show_name no)
@@ -14947,7 +14947,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TCRT5000L:XDCR_TCRT5000L"
+		(property "Footprint" "customs:XDCR_TCRT5000L"
 			(at 62.23 110.49 0)
 			(hide yes)
 			(show_name no)

@@ -653,7 +653,7 @@
         "uuid": "0c41e5c7-9305-43a8-ba69-e960b4d9dcc5"
       }
     ],
-    "used_designators": "BT1-2,#PWR2,#PWR6-8,#PWR11,#PWR13-14,#PWR30-32,#PWR37-42,#PWR44,#PWR46,#PWR48-50,#PWR58-64,TB1-2,R1-2,R19-45,R49-75,#FLG1-2,BlackPill1-2,U2,U4-21,MP1-2,C9,D1-2",
+    "used_designators": "SW3-6,#FLG1,J2,J5,#PWR15-18,#PWR43,#PWR47",
     "variants": []
   },
   "sheets": [
