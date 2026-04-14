@@ -197,10 +197,8 @@
         0.0,
         0.25,
         0.3,
-        0.4,
         0.5,
-        0.6,
-        1.5
+        1.0
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -672,7 +670,7 @@
         "uuid": "0c41e5c7-9305-43a8-ba69-e960b4d9dcc5"
       }
     ],
-    "used_designators": "H5-6,C10,#PWR51",
+    "used_designators": "SW3,H7-10,J9,R1-2,R49-75,R94-120,C1-2,#PWR10,#PWR15-22,#PWR49-52,#PWR54,#PWR58-64,#PWR117,#PWR121-147,U2,U4-9,U19-20,U28-36",
     "variants": []
   },
   "sheets": [
@@ -682,11 +680,15 @@
     ],
     [
       "536f6f0f-1348-4cad-80a9-cc024166d5f9",
-      "Sensors"
+      "QRE1113"
     ],
     [
       "5c1cd197-2c98-494a-a324-b93265459718",
       "Layer connectors"
+    ],
+    [
+      "2d3eeb3b-ebde-4a74-9cb8-78b8b8b2ae01",
+      "TCRT5000"
     ]
   ],
   "text_variables": {},
