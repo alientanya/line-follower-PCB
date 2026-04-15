@@ -50,7 +50,7 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.3
+          "min_clearance": 0.16
         }
       },
       "diff_pair_dimensions": [
@@ -130,11 +130,11 @@
       },
       "rules": {
         "max_error": 0.005,
-        "min_clearance": 0.0,
-        "min_connection": 0.0,
-        "min_copper_edge_clearance": 0.5,
+        "min_clearance": 0.2,
+        "min_connection": 0.1,
+        "min_copper_edge_clearance": 0.0,
         "min_groove_width": 0.0,
-        "min_hole_clearance": 0.25,
+        "min_hole_clearance": 0.26,
         "min_hole_to_hole": 0.25,
         "min_microvia_diameter": 0.2,
         "min_microvia_drill": 0.1,
@@ -145,7 +145,7 @@
         "min_through_hole_diameter": 0.3,
         "min_track_width": 0.2,
         "min_via_annular_width": 0.1,
-        "min_via_diameter": 0.5,
+        "min_via_diameter": 0.6,
         "solder_mask_to_copper_clearance": 0.0,
         "use_height_for_length_calcs": true
       },
@@ -195,6 +195,7 @@
       ],
       "track_widths": [
         0.0,
+        0.2,
         0.25,
         0.3,
         0.5,
@@ -670,7 +671,7 @@
         "uuid": "0c41e5c7-9305-43a8-ba69-e960b4d9dcc5"
       }
     ],
-    "used_designators": "SW3,H7-10,J9,R1-2,R49-75,R94-120,C1-2,#PWR10,#PWR15-22,#PWR49-52,#PWR54,#PWR58-64,#PWR117,#PWR121-147,U2,U4-9,U19-20,U28-36",
+    "used_designators": "#PWR148-195,D1-9,Q1-9,J14,R3-4,R7-18,R121-133,H11-12",
     "variants": []
   },
   "sheets": [
@@ -689,6 +690,10 @@
     [
       "2d3eeb3b-ebde-4a74-9cb8-78b8b8b2ae01",
       "TCRT5000"
+    ],
+    [
+      "f58932cc-7cfb-4af4-be5f-a8926b457994",
+      "Custom s"
     ]
   ],
   "text_variables": {},
