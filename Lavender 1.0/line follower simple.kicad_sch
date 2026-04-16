@@ -6486,7 +6486,7 @@
 			)
 		)
 	)
-	(global_label "T5"
+	(global_label "L5"
 		(shape input)
 		(at 54.61 101.6 90)
 		(fields_autoplaced yes)
@@ -6498,7 +6498,7 @@
 		)
 		(uuid "266f8910-ce38-4801-bb8a-e9bcd6eaff2d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 54.61 96.4377 90)
+			(at 54.61 96.3772 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6510,7 +6510,7 @@
 			)
 		)
 	)
-	(global_label "T1"
+	(global_label "L1"
 		(shape input)
 		(at 29.21 101.6 90)
 		(fields_autoplaced yes)
@@ -6522,7 +6522,7 @@
 		)
 		(uuid "271f8295-84d4-4a1d-8bd1-640df4ef72df")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 29.21 96.4377 90)
+			(at 29.21 96.3772 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6726,7 +6726,7 @@
 			)
 		)
 	)
-	(global_label "T9"
+	(global_label "L9"
 		(shape input)
 		(at 49.53 101.6 90)
 		(fields_autoplaced yes)
@@ -6738,7 +6738,7 @@
 		)
 		(uuid "336229cb-1eec-4475-b665-0a804deea870")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 49.53 96.4377 90)
+			(at 49.53 96.3772 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6750,7 +6750,7 @@
 			)
 		)
 	)
-	(global_label "T4"
+	(global_label "L4"
 		(shape input)
 		(at 44.45 101.6 90)
 		(fields_autoplaced yes)
@@ -6762,7 +6762,7 @@
 		)
 		(uuid "36b3bfe2-8bae-43b4-b2ff-ac1cedfdd1c9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 44.45 96.4377 90)
+			(at 44.45 96.3772 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6774,7 +6774,7 @@
 			)
 		)
 	)
-	(global_label "T6"
+	(global_label "L6"
 		(shape input)
 		(at 59.69 101.6 90)
 		(fields_autoplaced yes)
@@ -6786,7 +6786,7 @@
 		)
 		(uuid "3a0c2269-3f53-4490-a851-060034ac7ba5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 59.69 96.4377 90)
+			(at 59.69 96.3772 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8502,7 +8502,7 @@
 			)
 		)
 	)
-	(global_label "T2"
+	(global_label "L2"
 		(shape input)
 		(at 34.29 101.6 90)
 		(fields_autoplaced yes)
@@ -8514,7 +8514,7 @@
 		)
 		(uuid "df83cc56-3bce-4d66-bcd5-185a5b26b966")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 34.29 96.4377 90)
+			(at 34.29 96.3772 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8550,7 +8550,7 @@
 			)
 		)
 	)
-	(global_label "T7"
+	(global_label "L7"
 		(shape input)
 		(at 64.77 101.6 90)
 		(fields_autoplaced yes)
@@ -8562,7 +8562,7 @@
 		)
 		(uuid "eaef7285-c364-4284-b30e-5a39d77bfa17")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 64.77 96.4377 90)
+			(at 64.77 96.3772 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8574,7 +8574,7 @@
 			)
 		)
 	)
-	(global_label "T8"
+	(global_label "L8"
 		(shape input)
 		(at 69.85 101.6 90)
 		(fields_autoplaced yes)
@@ -8586,7 +8586,7 @@
 		)
 		(uuid "eaf5881b-0e2a-4741-9cc5-b8fcc2c43278")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 69.85 96.4377 90)
+			(at 69.85 96.3772 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8742,7 +8742,7 @@
 			)
 		)
 	)
-	(global_label "T3"
+	(global_label "L3"
 		(shape input)
 		(at 39.37 101.6 90)
 		(fields_autoplaced yes)
@@ -8754,7 +8754,7 @@
 		)
 		(uuid "f6262033-c471-4cb6-8064-9c43eac3db06")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 39.37 96.4377 90)
+			(at 39.37 96.3772 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)

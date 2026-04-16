@@ -1476,7 +1476,7 @@
 		)
 		(uuid "fda04fdc-54c9-4551-ba67-b0f8a46bd23e")
 	)
-	(global_label "T2"
+	(global_label "L2"
 		(shape output)
 		(at 177.8 38.1 0)
 		(fields_autoplaced yes)
@@ -1488,7 +1488,7 @@
 		)
 		(uuid "25da63c4-99b9-4713-9743-d8ad0e9b2308")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 182.9623 38.1 0)
+			(at 183.0228 38.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1500,7 +1500,7 @@
 			)
 		)
 	)
-	(global_label "T4"
+	(global_label "L4"
 		(shape output)
 		(at 138.43 63.5 0)
 		(fields_autoplaced yes)
@@ -1512,7 +1512,7 @@
 		)
 		(uuid "3f6f1b01-bf86-468a-972f-3df31895b2f4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 143.5923 63.5 0)
+			(at 143.6528 63.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1524,7 +1524,7 @@
 			)
 		)
 	)
-	(global_label "T5"
+	(global_label "L5"
 		(shape output)
 		(at 177.8 62.23 0)
 		(fields_autoplaced yes)
@@ -1536,7 +1536,7 @@
 		)
 		(uuid "65122c22-4b49-48eb-ad9c-657de665b749")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 182.9623 62.23 0)
+			(at 183.0228 62.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1548,7 +1548,7 @@
 			)
 		)
 	)
-	(global_label "T9"
+	(global_label "L9"
 		(shape output)
 		(at 217.17 88.9 0)
 		(fields_autoplaced yes)
@@ -1560,7 +1560,7 @@
 		)
 		(uuid "7d7dcaef-7578-4b4d-b4d9-4f3e81572977")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 222.3323 88.9 0)
+			(at 222.3928 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1572,7 +1572,7 @@
 			)
 		)
 	)
-	(global_label "T6"
+	(global_label "L6"
 		(shape output)
 		(at 217.17 60.96 0)
 		(fields_autoplaced yes)
@@ -1584,7 +1584,7 @@
 		)
 		(uuid "8d50e4df-e1e3-4865-b26c-811bbf11d2d8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 222.3323 60.96 0)
+			(at 222.3928 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1596,7 +1596,7 @@
 			)
 		)
 	)
-	(global_label "T1"
+	(global_label "L1"
 		(shape output)
 		(at 138.43 39.37 0)
 		(fields_autoplaced yes)
@@ -1608,7 +1608,7 @@
 		)
 		(uuid "93427afe-71f0-4086-8540-e49ef46d7ae4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 143.5923 39.37 0)
+			(at 143.6528 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1620,7 +1620,7 @@
 			)
 		)
 	)
-	(global_label "T8"
+	(global_label "L8"
 		(shape output)
 		(at 177.8 90.17 0)
 		(fields_autoplaced yes)
@@ -1632,7 +1632,7 @@
 		)
 		(uuid "d54db5bf-0323-42d8-94a5-d52acb163fef")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 182.9623 90.17 0)
+			(at 183.0228 90.17 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1644,7 +1644,7 @@
 			)
 		)
 	)
-	(global_label "T7"
+	(global_label "L7"
 		(shape output)
 		(at 138.43 91.44 0)
 		(fields_autoplaced yes)
@@ -1656,7 +1656,7 @@
 		)
 		(uuid "deb05e83-2918-438c-bd7f-3725e75fed0b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 143.5923 91.44 0)
+			(at 143.6528 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1668,7 +1668,7 @@
 			)
 		)
 	)
-	(global_label "T3"
+	(global_label "L3"
 		(shape output)
 		(at 217.17 36.83 0)
 		(fields_autoplaced yes)
@@ -1680,7 +1680,7 @@
 		)
 		(uuid "e63edb0b-5268-43fb-b92b-d4216a5e1371")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 222.3323 36.83 0)
+			(at 222.3928 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1802,7 +1802,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm_Clear"
 			(at 58.42 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -2286,7 +2286,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm_Clear"
 			(at 34.29 52.07 0)
 			(hide yes)
 			(show_name no)
@@ -3556,7 +3556,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm_Clear"
 			(at 82.55 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -3726,7 +3726,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm_Clear"
 			(at 58.42 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -3975,7 +3975,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm_Clear"
 			(at 58.42 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -5638,7 +5638,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm_Clear"
 			(at 34.29 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -6278,7 +6278,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_THT:LED_D5.0mm_Horizontal_O6.35mm_Z3.0mm"
+		(property "Footprint" "LED_THT:LED_D5.0mm_Clear"
 			(at 118.364 49.022 0)
 			(hide yes)
 			(show_name no)
@@ -6595,7 +6595,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm_Clear"
 			(at 82.55 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -7001,7 +7001,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm_Clear"
 			(at 82.55 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -7956,7 +7956,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D5.0mm_Clear"
 			(at 34.29 35.56 0)
 			(hide yes)
 			(show_name no)
