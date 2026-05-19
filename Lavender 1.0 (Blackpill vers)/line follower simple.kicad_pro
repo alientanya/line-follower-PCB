@@ -791,7 +791,7 @@
         "uuid": "0c41e5c7-9305-43a8-ba69-e960b4d9dcc5"
       }
     ],
-    "used_designators": "",
+    "used_designators": "F1,#PWR196-200,#PWR205-211,#PWR215,#PWR217-218,J15-19",
     "variants": []
   },
   "sheets": [
@@ -805,7 +805,7 @@
     ],
     [
       "5c1cd197-2c98-494a-a324-b93265459718",
-      "Layer connectors"
+      "Connectors"
     ],
     [
       "2d3eeb3b-ebde-4a74-9cb8-78b8b8b2ae01",
