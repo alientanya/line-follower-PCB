@@ -105469,6 +105469,126 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "GND"
+		(at 171.8 101.25 0)
+		(layer "B.SilkS")
+		(uuid "6a10aee3-66ae-4c45-bc78-bcfc74b27a1a")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "GND"
+		(at 172.1 88.35 0)
+		(layer "B.SilkS")
+		(uuid "d1566e32-9a81-4ee6-b081-a931518dfe34")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "BAT IN"
+		(at 172.75 83.3 0)
+		(layer "B.SilkS")
+		(uuid "d45dd929-e7c5-4e48-9f85-db45460113cb")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "3.3V IN"
+		(at 173.05 85.8 0)
+		(layer "B.SilkS")
+		(uuid "40ae779f-73b7-42de-b978-4a53c06f2788")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "MOTOR 1+"
+		(at 174.1 90.95 0)
+		(layer "B.SilkS")
+		(uuid "b56bcd5f-6c9e-417f-b646-8a4079bdddba")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "MOTOR 2-"
+		(at 174.1 96.116667 0)
+		(layer "B.SilkS")
+		(uuid "55141ef7-b481-41bb-81a1-34e2905b49d2")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "MOTOR 1-"
+		(at 174.15 93.533333 0)
+		(layer "B.SilkS")
+		(uuid "27ef6a9b-0e55-49f3-bc31-dd85f56b1ab4")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "MOTOR 2+"
+		(at 174.15 98.7 0)
+		(layer "B.SilkS")
+		(uuid "eb0060b6-c007-4ee2-8033-eede316d1004")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "GND"
+		(at 179.3 101.3 0)
+		(layer "B.SilkS")
+		(uuid "78707fcb-be2d-4bbe-a5d9-cb6b2240fa10")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "3.3V IN"
+		(at 179.7 91.05 0)
+		(layer "B.SilkS")
+		(uuid "6279b6bf-12f8-4223-9113-860390bdd451")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(gr_text "pls work"
 		(at 35.906993 123.3327 90)
 		(layer "B.SilkS")
@@ -105581,6 +105701,30 @@
 		(at 148.35 146.25 90)
 		(layer "B.SilkS")
 		(uuid "acb26ce6-45c1-4952-ba7e-961f629a71f7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "3.3V OUT"
+		(at 167.55 134.3 270)
+		(layer "B.SilkS")
+		(uuid "f0fae75c-3971-415b-9ce1-e486a58b4dda")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "BAT IN"
+		(at 167.75 118.4 270)
+		(layer "B.SilkS")
+		(uuid "e2586ab1-7721-407c-8e92-0ea9366a958d")
 		(effects
 			(font
 				(size 1 1)
