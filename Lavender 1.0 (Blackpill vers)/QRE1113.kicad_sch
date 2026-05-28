@@ -6275,7 +6275,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "customs:QRE1113-SMD"
+		(property "Footprint" "MyCustoms:QRE1113-SMD"
 			(at 256.54 29.21 0)
 			(hide yes)
 			(show_name no)
@@ -7010,7 +7010,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "customs:QRE1113-SMD"
+		(property "Footprint" "MyCustoms:QRE1113-SMD"
 			(at 184.15 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -7583,7 +7583,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "customs:QRE1113-SMD"
+		(property "Footprint" "MyCustoms:QRE1113-SMD"
 			(at 218.44 29.21 0)
 			(hide yes)
 			(show_name no)
@@ -7841,7 +7841,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "customs:QRE1113-SMD"
+		(property "Footprint" "MyCustoms:QRE1113-SMD"
 			(at 256.54 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -8177,7 +8177,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "customs:QRE1113-SMD"
+		(property "Footprint" "MyCustoms:QRE1113-SMD"
 			(at 68.58 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -8999,7 +8999,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "customs:QRE1113-SMD"
+		(property "Footprint" "MyCustoms:QRE1113-SMD"
 			(at 256.54 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -10058,7 +10058,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "customs:QRE1113-SMD"
+		(property "Footprint" "MyCustoms:QRE1113-SMD"
 			(at 218.44 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -10793,7 +10793,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "customs:QRE1113-SMD"
+		(property "Footprint" "MyCustoms:QRE1113-SMD"
 			(at 219.71 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -12488,7 +12488,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "customs:QRE1113-SMD"
+		(property "Footprint" "MyCustoms:QRE1113-SMD"
 			(at 102.87 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -13064,7 +13064,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "customs:QRE1113-SMD"
+		(property "Footprint" "MyCustoms:QRE1113-SMD"
 			(at 257.81 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -14039,7 +14039,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "customs:QRE1113-SMD"
+		(property "Footprint" "MyCustoms:QRE1113-SMD"
 			(at 33.02 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -14297,7 +14297,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "customs:QRE1113-SMD"
+		(property "Footprint" "MyCustoms:QRE1113-SMD"
 			(at 68.58 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -14792,7 +14792,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "customs:QRE1113-SMD"
+		(property "Footprint" "MyCustoms:QRE1113-SMD"
 			(at 33.02 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -15212,7 +15212,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "customs:QRE1113-SMD"
+		(property "Footprint" "MyCustoms:QRE1113-SMD"
 			(at 102.87 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -15866,7 +15866,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "customs:QRE1113-SMD"
+		(property "Footprint" "MyCustoms:QRE1113-SMD"
 			(at 218.44 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -16922,7 +16922,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "customs:QRE1113-SMD"
+		(property "Footprint" "MyCustoms:QRE1113-SMD"
 			(at 68.58 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -17576,7 +17576,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "customs:QRE1113-SMD"
+		(property "Footprint" "MyCustoms:QRE1113-SMD"
 			(at 102.87 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -18470,7 +18470,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "customs:QRE1113-SMD"
+		(property "Footprint" "MyCustoms:QRE1113-SMD"
 			(at 148.59 29.21 0)
 			(hide yes)
 			(show_name no)
@@ -18890,7 +18890,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "customs:QRE1113-SMD"
+		(property "Footprint" "MyCustoms:QRE1113-SMD"
 			(at 148.59 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -19391,7 +19391,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "customs:QRE1113-SMD"
+		(property "Footprint" "MyCustoms:QRE1113-SMD"
 			(at 184.15 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -20132,7 +20132,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "customs:QRE1113-SMD"
+		(property "Footprint" "MyCustoms:QRE1113-SMD"
 			(at 33.02 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -20390,7 +20390,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "customs:QRE1113-SMD"
+		(property "Footprint" "MyCustoms:QRE1113-SMD"
 			(at 148.59 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -20963,7 +20963,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "customs:QRE1113-SMD"
+		(property "Footprint" "MyCustoms:QRE1113-SMD"
 			(at 184.15 29.21 0)
 			(hide yes)
 			(show_name no)
@@ -21302,7 +21302,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "customs:QRE1113-SMD"
+		(property "Footprint" "MyCustoms:QRE1113-SMD"
 			(at 149.86 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -21881,7 +21881,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "customs:QRE1113-SMD"
+		(property "Footprint" "MyCustoms:QRE1113-SMD"
 			(at 185.42 129.54 0)
 			(hide yes)
 			(show_name no)
