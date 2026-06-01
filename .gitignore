@@ -1,0 +1,47 @@
+# -------------------------------------
+# KiCad Specific Files
+# -------------------------------------
+
+# Backups
+*-backups/
+*.bak
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*.bck
+
+# Autosaves
+*_autosave-*
+*_autosave.*
+#auto_saved_files#
+
+# Lock files (created when a schematic/PCB is currently open)
+~*.lck
+*.lck
+
+# Local user settings and caches (Window positions, recently opened, etc.)
+*.kicad_prl
+fp-info-cache
+
+# -------------------------------------
+# Output / Manufacturing Files
+# -------------------------------------
+
+# Exclude generated zip files (like your Gerber fabrication folders)
+*.zip
+
+# (Optional) Exclude standard gerber output directories if you use them
+gerber/
+gerbers/
+/Fabrication/
+
+# -------------------------------------
+# IDE / OS Specific Files
+# -------------------------------------
+
+# Local history (VS Code, etc.)
+.history/
+.vscode/
+
+# OS specific hidden files
+.DS_Store
+Thumbs.db
