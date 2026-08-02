@@ -555,7 +555,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "flf gerbers/",
+      "plot": "FLF_gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",

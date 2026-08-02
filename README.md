@@ -8,13 +8,51 @@ Instead of committing to a single sensor layout, this PCB supports four distinct
 
 ## Menu
 
+- [Hardware Revisions](#hardware-revisions)
+- [Repository Structure](#repository-structure)
 - [Core Features](#core-features)  
-- [Core Components](#core-components--design-choices)  
-- [Sensor System](#interchangeable-sensor-arrays)  
-- [8+1 Sensor Strategy](#81-sensor-placement-strategy)  
+- [Core Components & Design Choices](#core-components--design-choices)  
+- [Sensors](#sensors)  
+- [Interchangeable Sensor Arrays](#interchangeable-sensor-arrays)  
+- [8+1 Sensor Placement Strategy](#81-sensor-placement-strategy)  
 - [Main Control PCB](#main-control-pcb)  
 - [MCU Control](#mcu-control)  
+- [Detailed Module Documentation](#detailed-module-documentation)
 - [Design Considerations](#design-considerations)  
+- [License](#license)
+
+---
+
+## Hardware Revisions
+
+- **Lavender 1.0 (Blackpill version)** — <img alt="Static Badge" src="https://img.shields.io/badge/Status-Field%20Tested%20%26%20Ready-brightgreen">  
+  Fully designed, fabricated, assembled, and successfully deployed on the physical FLF robot. Uses the STM32F411 Blackpill module.
+- **Lavender 2.0 (IC version)** — <img alt="Static Badge" src="https://img.shields.io/badge/Status-Work%20In%20Progress-orange">  
+  Work-in-progress experimental design integrating a discrete STM32F411 IC directly onto the PCB.
+
+---
+
+## Repository Structure
+
+```text
+├── Lavender 1.0 (Blackpill vers)/    # Hardware-verified revision used on the physical robot
+│   ├── line follower simple.kicad_pcb # Main body PCB layout
+│   ├── line follower simple.kicad_sch # Main body schematic
+│   ├── QRE1113.kicad_sch              # 16-Sensor QRE1113 schematic
+│   ├── TCRT_sensors.kicad_sch         # 9-Sensor TCRT5000 schematic
+│   ├── customssensor.kicad_sch        # Custom IR LED + PT334 schematic
+│   ├── layerconnect.kicad_sch         # Inter-board connector schematic
+│   └── FLF_gerbers/                   # Production Gerber output files
+├── Lavender 2.0 (IC vers)/           # WIP prototype with discrete STM32 IC
+│   ├── STMf411.kicad_sch              # Discrete STM32F411 MCU schematic
+│   └── line follower simple.kicad_pcb # 2.0 PCB layout (WIP)
+├── PCB customs/                       # 3D STEP models & custom KiCad footprint libraries
+├── docs/                              # Detailed hardware documentation
+│   └── MODULES.md                     # Complete circuit module & subsystem reference
+├── images/                            # PCB renders and schematic diagrams
+├── LICENSE                            # MIT License
+└── README.md                          # Main project README
+```
 
 ---
 
@@ -22,7 +60,7 @@ Instead of committing to a single sensor layout, this PCB supports four distinct
 
 * 4 interchangeable sensor array designs
 * Modular architecture using headers
-* STM32F411 (Blackpill) based control
+* STM32F411 (Blackpill) based control (Lavender 1.0)
 * HC-05 Bluetooth connectivity
 * Stackable PCB with internal battery space
 
@@ -170,8 +208,14 @@ This section describes the core board that handles control, power distribution, 
   * Interfaces with the top board via pin headers
   * Creates space between layers for battery placement
 
-  <img src="images\BodyPCB.png" width="400">
-  
+  <img src="images/BodyPCB.png" width="400">
+
+---
+
+## Detailed Module Documentation
+
+For in-depth schematic breakdowns, electrical specifications, pin mappings, and functional module descriptions (Power Management, MCU, Motor Driver, MUX, and Sensor Arrays), check out the [Module Documentation](docs/MODULES.md).
+
 ---
 
 ## Design Considerations
@@ -187,3 +231,9 @@ This section describes the core board that handles control, power distribution, 
 ## Summary
 
 Instead of locking the design into a single sensor configuration, this PCB is built as a flexible platform that encourages rapid experimentation and iteration. Supporting multiple interchangeable sensor arrays, it allows direct comparison between different sensing approaches, geometries, and component choices under the same hardware conditions. This makes it easier to fine-tune performance, optimise control algorithms, and adapt the system for different track types. Ultimately, the goal of this design is not just to work, but to provide a reliable foundation for continuously improving and pushing the limits of FLF performance.
+
+---
+
+## License
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
