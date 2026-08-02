@@ -47,8 +47,10 @@ Instead of committing to a single sensor layout, this PCB supports four distinct
 │   ├── STMf411.kicad_sch              # Discrete STM32F411 MCU schematic
 │   └── line follower simple.kicad_pcb # 2.0 PCB layout (WIP)
 ├── PCB customs/                       # 3D STEP models & custom KiCad footprint libraries
-├── docs/                              # Detailed hardware documentation
-│   └── MODULES.md                     # Complete circuit module & subsystem reference
+├── docs/                              # Detailed hardware documentation guides
+│   ├── MODULES.md                     # Circuit modules & subsystem technical reference
+│   ├── SENSOR_ARRAYS.md               # Sensor array designs & 8+1 strategy guide
+│   └── PINOUTS_AND_REVISIONS.md       # Pin mapping & revision comparison guide
 ├── images/                            # PCB renders and schematic diagrams
 ├── LICENSE                            # MIT License
 └── README.md                          # Main project README
@@ -214,7 +216,11 @@ This section describes the core board that handles control, power distribution, 
 
 ## Detailed Module Documentation
 
-For in-depth schematic breakdowns, electrical specifications, pin mappings, and functional module descriptions (Power Management, MCU, Motor Driver, MUX, and Sensor Arrays), check out the [Module Documentation](docs/MODULES.md).
+Explore the dedicated hardware documentation guides for in-depth schematic breakdowns, pinout mappings, and circuit specifications:
+
+- 🔌 **[Circuit Modules & Subsystems Guide](docs/MODULES.md)** — Technical reference for Power Management & Rail Isolation, MCU & SWD Debugging, TB6612FNG Motor Driver, 74HC4067 MUX, Emitter Biasing, RC Hardware Debouncing, and the Inter-Board Header Bus.
+- 🎯 **[Interchangeable Sensor Arrays & Placement Strategy](docs/SENSOR_ARRAYS.md)** — Comprehensive breakdown of the 4 sensor array variants (16-QRE MUX, 9-QRE, 9-TCRT, Custom Discrete) and the 8+1 apex placement geometry.
+- 📌 **[Pin Mapping & Hardware Revisions Guide](docs/PINOUTS_AND_REVISIONS.md)** — Hardware peripheral pin assignments (PWM, ADC, MUX select, UART), SWD interface, and comparison between Lavender 1.0 (Field-Tested) and Lavender 2.0 (WIP).
 
 ---
 
